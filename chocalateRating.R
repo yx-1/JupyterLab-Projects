@@ -1,12 +1,4 @@
-################################################################################
-# MGMT 590 Using R for Analytics
-# Team Lab #3
-# Due: 12/05/2021 11:59pm
-#
-#
-# Team #:9
-### we added progress indicator under lab2:scatter plot. #############
-
+# Designed and developed a scalable, automated interactive web-app (R Shiny ) for chocolate retailers, gauging popularity of chocolate bars.
 ######################################################################################
 #load library
 library(readxl)
